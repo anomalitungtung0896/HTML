@@ -1,0 +1,22 @@
+h1{
+ color: aqua;
+ font-family: sans-serif;
+}
+#anomali{
+color: brown;
+font-family: arial;
+}
+h3{
+    color: black;
+    font-family: arial;
+}
+h4{
+    color: blanchedalmond;
+    font-family: Arial;
+}
+p{
+color: brown;
+}
+/*[type="text"]*/
+/* # pake [id]*/
+/* . pake {clas}*/
