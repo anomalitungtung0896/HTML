@@ -1,0 +1,32 @@
+#tulisanbesar{
+    font-size: 35px;
+}
+.gambar{
+    width: 200px;
+    height: 200px;
+    display: block;
+    border-radius:10px;
+    margin: auto;
+}
+a:hover{
+    color: rgb(255, 0, 0);
+}
+.li1{
+    color: black;
+    text-decoration: none;
+}
+.li2{
+    color: black;
+    text-decoration: none;
+}
+.li3{
+    color: black;
+    text-decoration: none;
+}
+.navgasi1{
+    color: antiquewhite;
+}
+.tentangsaya{
+ font-family: serif;  
+ font-size: 35px; 
+}
