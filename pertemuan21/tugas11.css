@@ -1,0 +1,18 @@
+
+.h1{
+    text-align: center;
+    color:#ff0000;
+    font-size: 80px;
+}
+.penjelasanproduk{
+    color: rgb(0, 255, 0);
+    text-align: justify;
+    margin: 20px;
+}
+a{
+    color: rgba(0, 0, 255, 50%);
+}
+a:hover{
+    
+    color:blue ;
+}
