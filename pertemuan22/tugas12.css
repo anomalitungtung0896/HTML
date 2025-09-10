@@ -1,0 +1,28 @@
+.bacground{
+    background-color: rgb(30, 156, 165);
+}
+.subpertama{
+    color: white;
+border-radius: 25px;
+}
+.bagianwahana{
+font-family: sans-serif;
+color: white;
+}
+.jambuka{
+    font-family: sans-serif;
+    color: white;
+}
+.tiket{
+    font-family: sans-serif;
+    color: white;
+}
+.lokasi{
+    font-family: sans-serif;
+    color: white;
+}
+img{
+    border-radius: 25px;
+    display: block;
+    
+}
