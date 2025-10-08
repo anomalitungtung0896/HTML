@@ -1,0 +1,123 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+   background-color:skyblue;
+}
+h3{
+    font-size: 25px;
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: white;
+
+}
+.bagianutama {
+    background-color: rgb(83, 138, 255);
+ padding: 20px;
+    text-align: center;
+   font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.bagiankedua {
+    background-color: rgb(248, 247, 247);
+ padding: 20px;
+    text-align: center;
+   font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 10px solid #FFFFFF;
+    border-radius: 15px;
+    margin: 20px;
+}
+.bagiankedua img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 5px solid #FFFFFF;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+.bagiankedua p{
+    text-align: justify;
+    margin: 20px;
+    font-size: 18px;
+    color: black;
+    line-height: 1.6;
+}
+.bagianketiga {
+    background-color: rgb(248, 247, 247);
+ padding: 20px;
+    text-align: center;
+   font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 10px solid #FFFFFF;
+    border-radius: 15px;
+    margin: 20px;
+}
+.bagianketiga h3{
+    font-size: 22px;
+    font-family: sans-serif;
+    text-align: left;
+   color: cornflowerblue;
+}
+.bagianketiga p{
+    text-align: justify;
+    margin: 20px;
+    font-size: 18px;
+    color: black;
+    line-height: 1.6;
+    font-family: sans-serif;
+}
+.bagiankeempat{
+     background-color: rgb(248, 247, 247);
+ padding: 20px;
+    text-align: center;
+   font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 10px solid #FFFFFF;
+    border-radius: 15px;
+    margin: 20px;
+}
+.bagiankeempat h3{
+    font-size: 22px;
+    font-family: sans-serif;
+    text-align: left;
+   color: cornflowerblue;
+}
+.bagiankeempat p{
+    text-align: justify;
+    margin: 20px;
+    font-size: 18px;
+    color: black;
+    line-height: 1.6;
+    font-family: sans-serif;
+}
+.bagiankelima{
+   background-color: rgb(83, 138, 255);
+ padding: 20px;
+    text-align: center;
+   font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: white;
+}
+.bagianketiga li{
+    text-align: justify;
+    margin: 20px;
+    font-size: 20px;
+    color: black;
+    line-height: 1.6;
+    font-family: sans-serif;
+}
+.bagiankeempat li{
+    text-align: justify;
+    margin: 20px;
+    font-size: 20px;
+    color: black;
+    line-height: 1.6;
+    font-family: sans-serif;
+    
+}
